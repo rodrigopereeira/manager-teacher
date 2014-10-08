@@ -18,7 +18,7 @@ public class ConnectionFactory {
 	    catch(ClassNotFoundException e){  
 	        throw new RuntimeException(e);  
 	    } 
-		//"jdbc:mysql://localhost/academico", "root", "xi95gfg8"
+		
 	 }
 	
 	
